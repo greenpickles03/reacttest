@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.input-add{   
+   margin-bottom: 10px;
+}
+
+.btn-space{
+  margin: 10px;
+}
+.table-color{
+  color: white !important;
+}
+
+.btn-left{
+  float: left;
+  margin-bottom: 10px;
+}
